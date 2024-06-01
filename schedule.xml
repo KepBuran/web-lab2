@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schedule>
+    <meeting>
+        <date>2024-06-01</date>
+        <time>10:00</time>
+        <person>John Doe</person>
+        <location>Conference Room</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-01</date>
+        <time>14:00</time>
+        <person>Jane Smith</person>
+        <location>Main Office</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-02</date>
+        <time>09:00</time>
+        <person>Bob Johnson</person>
+        <location>Cafe</location>
+    </meeting>
+    <!-- New meetings -->
+    <meeting>
+        <date>2024-06-02</date>
+        <time>11:30</time>
+        <person>Alice Williams</person>
+        <location>Boardroom</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-03</date>
+        <time>15:00</time>
+        <person>Michael Brown</person>
+        <location>Main Office</location>
+    </meeting>
+    <!-- Additional meetings -->
+    <meeting>
+        <date>2024-06-03</date>
+        <time>10:00</time>
+        <person>Emily Davis</person>
+        <location>Conference Room</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-03</date>
+        <time>14:30</time>
+        <person>David Wilson</person>
+        <location>Main Office</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-04</date>
+        <time>11:00</time>
+        <person>Sarah Martinez</person>
+        <location>Boardroom</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-04</date>
+        <time>15:30</time>
+        <person>James Thompson</person>
+        <location>Main Office</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-05</date>
+        <time>10:30</time>
+        <person>Lisa Rodriguez</person>
+        <location>Conference Room</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-05</date>
+        <time>16:00</time>
+        <person>Christopher Lee</person>
+        <location>Main Office</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-06</date>
+        <time>09:30</time>
+        <person>Mary Wilson</person>
+        <location>Boardroom</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-06</date>
+        <time>14:00</time>
+        <person>Matthew Garcia</person>
+        <location>Main Office</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-07</date>
+        <time>11:30</time>
+        <person>Jennifer Martinez</person>
+        <location>Conference Room</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-07</date>
+        <time>15:00</time>
+        <person>Andrew Taylor</person>
+        <location>Main Office</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-08</date>
+        <time>10:00</time>
+        <person>Emma Hernandez</person>
+        <location>Boardroom</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-08</date>
+        <time>14:30</time>
+        <person>William Nguyen</person>
+        <location>Main Office</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-09</date>
+        <time>11:00</time>
+        <person>Olivia Adams</person>
+        <location>Conference Room</location>
+    </meeting>
+    <meeting>
+        <date>2024-06-09</date>
+        <time>15:30</time>
+        <person>Daniel Kim</person>
+        <location>Main Office</location>
+    </meeting>
+</schedule>
